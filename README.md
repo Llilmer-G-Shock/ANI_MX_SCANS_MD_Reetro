@@ -3,7 +3,7 @@
 ## El Bot recibirá mas actualizaciones cuando esten disponibles
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/51910471065" target="blank"><img src="https://img.shields.io/badge/REY_ENDYMION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/51910471065" target="blank"><img src="https://img.shields.io/badge/REY_REETRO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
