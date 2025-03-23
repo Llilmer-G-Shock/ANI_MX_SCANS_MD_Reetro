@@ -6,10 +6,6 @@
 <a href="http://wa.me/51910471065" target="blank"><img src="https://img.shields.io/badge/REY_REETRO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
-### `—◉ ⚙️ AJUSTES ⚙️`
-
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/ReyEndymion/ANI_MX_SCANS_MD_TV/blob/master/config.js)
-
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
