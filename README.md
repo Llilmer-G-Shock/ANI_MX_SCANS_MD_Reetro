@@ -3,11 +3,11 @@
 ## El Bot recibirá mas actualizaciones cuando esten disponibles
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/5215517489568" target="blank"><img src="https://img.shields.io/badge/REY_ENDYMION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/51910471065" target="blank"><img src="https://img.shields.io/badge/REY_ENDYMION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/ReyEndymion/ANI_MX_SCANS_MD_TV/fork)
+
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/ReyEndymion/ANI_MX_SCANS_MD_TV/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
@@ -63,6 +63,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-[![ReyEndymion](https://avatars.githubusercontent.com/u/33460024?s=400&u=606a55df86c01cff7351ac68806cae5f8719825b&v=4size=100)](https://github.com/ReyEndymion/) 
+[![ReyReetro](https://avatars.githubusercontent.com/u/33460024?s=400&u=606a55df86c01cff7351ac68806cae5f8719825b&v=4size=100)](https://github.com/ReyEndymion/) 
 
-`ANI MX SCANS version termux __________ By Rey Endymion`
+`ANI MX SCANS version termux __________ By Rey Reetro`
