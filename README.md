@@ -59,6 +59,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-[![ReyReetro](https://avatars.githubusercontent.com/u/33460024?s=400&u=606a55df86c01cff7351ac68806cae5f8719825b&v=4size=100)](https://github.com/ReyEndymion/) 
+[![ReyReetro](https://pin.it/3QdqiCsbl)](https://github.comllilmer-G-shock/) 
 
-`ANI MX SCANS version termux __________ By Rey Reetro`
+`Ryo Yamada version termux ____ By Rey Reetro`
