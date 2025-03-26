@@ -79,7 +79,7 @@ logger: P({ level: 'silent' }),
 printQRInTerminal: true,
 auth: state,
 browser: ['Ubuntu','Chrome','20.0.4'],
-//🌎ANI MX SCANS🌏
+//RYO YAMADA 
 }
 
 global.conn = makeWASocket(connectionOptions)
@@ -190,7 +190,7 @@ actualizarNumero()
 credsStatus() 
     }
 if (connection == 'open') {
-console.log(chalk.yellow('▣─────────────────────────────···\n│\n│❧ CONECTADO CORRECTAMENTE AL WHATSAPP ✅\n│\n▣─────────────────────────────···'))
+console.log(chalk.Blue('▣─────────────────────────────···\n│\n│❧ CONECTADO CORRECTAMENTE AL WHATSAPP ✅\n│\n▣─────────────────────────────···'))
 if (update.receivedPendingNotifications) { 
   waitTwoMinutes()
   //return conn.groupAcceptInvite('HbC4vaYsvYi0Q3i38diybA');
