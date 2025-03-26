@@ -1,10 +1,13 @@
-# `💫 Ryo Yamada`
+# `💫 RYO YAMADA`
 
 ## El Bot recibirá mas actualizaciones cuando esten disponibles
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <a href="http://wa.me/51910471065" target="blank"><img src="https://img.shields.io/badge/DEV_REETRO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-> NO BOT
+> NO SOY UN BOT
+
+<a href="http://wa.me/529613318177" target="blank"><img src="https://img.shields.io/badge/RYO_YAMADA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+> NÚMERO DE LA BOT 
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
@@ -59,4 +62,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-[!]`Ryo Yamada version termux ____ By Dev-Reetro`
+[!]`Ryo Yamada version termux ____ Dev-Reetro`
