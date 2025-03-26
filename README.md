@@ -1,4 +1,4 @@
-# `Ryo Yamada`
+# `💫 Ryo Yamada`
 
 ## El Bot recibirá mas actualizaciones cuando esten disponibles
 
@@ -59,6 +59,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-[![Dev-Reetro](https://avatar/pin.it/3QdqiCsbl)](https://github.comllilmer-G-shock/) 
-
-`Ryo Yamada version termux ____ By Dev-Reetro`
+[!]`Ryo Yamada version termux ____ By Dev-Reetro`
