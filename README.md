@@ -59,6 +59,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-[![ReyReetro](https://pin.it/3QdqiCsbl)](https://github.comllilmer-G-shock/) 
+[![Dev-Reetro](https://pin.it/3QdqiCsbl)](https://github.comllilmer-G-shock/) 
 
-`Ryo Yamada version termux ____ By Rey Reetro`
+`Ryo Yamada version termux ____ By Dev-Reetro`
