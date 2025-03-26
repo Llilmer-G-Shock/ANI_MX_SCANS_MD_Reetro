@@ -13,31 +13,31 @@ const __dirname = global.__dirname(import.meta.url)
 
 
 global.owner = [
-   ['5215517489568','𝓢𝓾𝓹𝓻𝓮𝓶𝓮 𝓔𝓷𝓭𝔂𝓶𝓲𝓸𝓷 - Creador 👁️', false],
-    ['5215533827255', '𝓡𝓮𝔂 𝓔𝓷𝓭𝔂𝓶𝓲𝓸𝓷 - Creador 👑', true]
+   ['51910471065','Dev Reetro  - Creador 👁️', false],
+    ['529613318177', 'Dev Choso - Creador 👑', true]
 ] // Cambia los numeros que quieras
 
 /**********GLOBAL INFO*****************/
-global.packname = '(☞ﾟ∀ﾟ)☞'
+global.packname = '(⁠≧⁠▽⁠≦⁠)'
 global.amsicon = `🌎`
-global.author = '𝓡𝓮𝔂 𝓔𝓷𝓭𝔂𝓶𝓲𝓸𝓷'
-global.wm = '🌎ANI MX SCANS🌏'
-global.igfg = '★🌎ANI MX SCANS🌏★'
+global.author = '𝓓𝓮𝓿 𝓡𝓮𝓮𝓽𝓻𝓸'
+global.wm = 'RYO YAMADA'
+global.igfg = '★RYO YAMADA★'
 global.paypal = `https://www.paypal.me/AMxScan`
 global.urlgofc = 'https://www.facebook.com/groups/otakustogether'
-global.otkstgthr = 'ㄖㄒ卂Ҡ凵丂 ㄒㄖᎶ乇ㄒ卄乇尺'
+global.otkstgthr = 'COMUNIDAD OTAKU'
 global.namerepre = `「 Traducciones de Manga 」`
 global.animxscans = [['14708300538', 'Bot principal - ANI MX SCANS', true]]
 global.me = animxscans
 global.hp_animxscans = 'https://www.facebook.com/ANIMxSCANS' 
 global.hp_otkstogthr = 'https://www.facebook.com/OtakusTogether' 
-global.md = 'https://github.com/ReyEndymion/ANI_MX_SCANS-MD'
-global.animxscansmd = 'https://github.com/ReyEndymion/ANI_MX_SCANS-MD'
-global.suppbot = 'https://chat.whatsapp.com/DpcgpFF2RO16wFG9SIZemG'
-global.gofwhabot = 'https://chat.whatsapp.com/DpcgpFF2RO16wFG9SlZemG'
-global.gt = '(☞ﾟ∀ﾟ)☞'
-global.botcomedia = '𝓑𝓸𝓽 𝓒𝓸𝓶𝓮𝓭𝓲𝓪 👺👍'
-global.botcomediamd = 'https://github.com/ReyEndymion/Bot-Comedia-MD'
+global.md = 'https://github.com/Llilmer-G-Shock'
+global.animxscansmd = 'https://github.com/Llilmer-G-Shock/ANI_MX_SCANS_MD_Reetro'
+global.suppbot = 'https://chat.whatsapp.com/F6erz85HtcC1TazLzbMeGh'
+global.gofwhabot = 'https://chat.whatsapp.com/F6erz85HtcC1TazLzbMeGh'
+global.gt = '(⁠≧⁠▽⁠≦⁠)'
+global.botcomedia = '𝓑𝓸𝓽 𝓒𝓸𝓶𝓮𝓭𝓲𝓪 👺'
+global.botcomediamd = 'https://github.com/ReyEndymion/Bot-Comed-MD'
 
 /***************GLOBAL APIS****************** */
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
@@ -73,9 +73,9 @@ global.APIKeys = {
 }
 /***************GLOBAL CONFIG****************/
 global.raiz = './'
-global.anidir = `ANI_MX_SCANS/`
+global.anidir = `RYO_YAMADA/`
 global.dirP = raiz// + anidir
-global.authFile = join(dirP, `ANIMXSCANS/`)
+global.authFile = join(dirP, `RYOYAMADA/`)
 global.authFileRespald = join(dirP, `sesionRespaldo/`)
 global.temp = join(dirP, 'tmp')
 global.media = dirP + 'media/'
@@ -102,7 +102,7 @@ global.img12 = 'https://i.imgur.com/vWnsjh8.jpg'
 global.img13 = 'https://i.imgur.com/pCfFOgw.jpeg'
 global.img14 = 'https://i.imgur.com/knBDWRA.jpeg'
 global.img15 = 'https://i.imgur.com/QrkkKx7.jpeg'
-global.stickerAMX = fs.readFileSync(join(dirP,`ANIMXSCANS.webp`))
+global.stickerAMX = fs.readFileSync(join(dirP,`RYOYAMADA.webp`))
 global.mods = [] 
 
 if (!fs.existsSync(authFile)) {
@@ -518,7 +518,7 @@ global.fin = '════◕◕ • •'
 /**********global tags***************/
 global.userID = `@s.whatsapp.net`
 global.groupID = '@g.us'
-global.suittag = ['5215532867844'] 
+global.suittag = ['51910471065'] 
 global.espadmins = []
 global.prems = [] 
 /********QUOTEDS*************** */
