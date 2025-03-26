@@ -1,9 +1,9 @@
-# `🧿 ANI MX SCANS 🔮`
+# `Ryo Yamada`
 
 ## El Bot recibirá mas actualizaciones cuando esten disponibles
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/51910471065" target="blank"><img src="https://img.shields.io/badge/REY_REETRO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/51910471065" target="blank"><img src="https://img.shields.io/badge/DEV_REETRO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
@@ -59,6 +59,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-[![Dev-Reetro](https://pin.it/3QdqiCsbl)](https://github.comllilmer-G-shock/) 
+[![Dev-Reetro](https://avatar/pin.it/3QdqiCsbl)](https://github.comllilmer-G-shock/) 
 
 `Ryo Yamada version termux ____ By Dev-Reetro`
