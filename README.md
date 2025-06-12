@@ -1,4 +1,4 @@
-# `💫 RYO YAMADA`
+# `ReBot`
 
 ## El Bot recibirá mas actualizaciones cuando esten disponibles
 
